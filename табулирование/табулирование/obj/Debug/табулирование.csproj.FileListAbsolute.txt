@@ -1,0 +1,18 @@
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\bin\Debug\табулирование.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\bin\Debug\табулирование.exe
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\bin\Debug\табулирование.pdb
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\obj\Debug\табулирование.csprojResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\obj\Debug\табулирование.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\obj\Debug\табулирование.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\obj\Debug\табулирование.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\obj\Debug\табулирование.exe
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\obj\Debug\табулирование.pdb
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\bin\Debug\табулирование.exe.config
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.pdb
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\bin\Debug\табулирование.exe
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\bin\Debug\табулирование.pdb
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.Form1.resources
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.Properties.Resources.resources
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.csproj.GenerateResource.Cache
+C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.exe

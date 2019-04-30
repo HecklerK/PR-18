@@ -1,0 +1,20 @@
+C:\Users\user\AppData\Local\Temporary Projects\табулирование\bin\x64\Release\табулирование.exe.config
+D:\YandexDisk\программы\C#\табулирование\табулирование\bin\x64\Release\табулирование.exe.config
+D:\YandexDisk\программы\C#\табулирование\табулирование\bin\x64\Release\табулирование.exe
+D:\YandexDisk\программы\C#\табулирование\табулирование\bin\x64\Release\табулирование.pdb
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.csprojResolveAssemblyReference.cache
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.Form1.resources
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.Properties.Resources.resources
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.csproj.GenerateResource.Cache
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.csproj.CoreCompileInputs.cache
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.exe
+D:\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.pdb
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.pdb
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\bin\x64\Release\табулирование.exe
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\bin\x64\Release\табулирование.pdb
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.csprojResolveAssemblyReference.cache
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.Form1.resources
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.Properties.Resources.resources
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.csproj.GenerateResource.cache
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.csproj.CoreCompileInputs.cache
+C:\Users\artem\YandexDisk\программы\C#\табулирование\табулирование\obj\x64\Release\табулирование.exe
