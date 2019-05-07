@@ -46,7 +46,16 @@ namespace табулирование
                 ver_w[i] = s;
                 s = "";
             }
-
+            label1.Text = hor_w[0];
+            label2.Text = hor_w[1];
+            label3.Text = hor_w[2];
+            label4.Text = hor_w[3];
+            label5.Text = hor_w[4];
+            label6.Text = ver_w[0];
+            label7.Text = ver_w[1];
+            label8.Text = ver_w[2];
+            label9.Text = ver_w[3];
+            label10.Text = ver_w[4];
         }
     }
 }

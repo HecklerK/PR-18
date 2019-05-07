@@ -16,3 +16,12 @@ C:\Users\kbstudentint\Downloads\табулирование\табулирова�
 C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.Properties.Resources.resources
 C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.csproj.GenerateResource.Cache
 C:\Users\kbstudentint\Downloads\табулирование\табулирование\obj\Debug\табулирование.exe
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\bin\Debug\табулирование.exe.config
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\obj\Debug\табулирование.exe
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\obj\Debug\табулирование.pdb
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\bin\Debug\табулирование.exe
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\bin\Debug\табулирование.pdb
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\obj\Debug\табулирование.csprojResolveAssemblyReference.cache
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\obj\Debug\табулирование.Form1.resources
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\obj\Debug\табулирование.Properties.Resources.resources
+\\kip.college\dfs\Roaming\Redirection\165263\Desktop\PR-18-master\табулирование\табулирование\obj\Debug\табулирование.csproj.GenerateResource.Cache
